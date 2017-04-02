@@ -35,12 +35,10 @@ Hyde is by preference a forward-thinking project. In addition to the latest vers
 
 Hyde is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/hyde">GitHub repository</a> for downloads, bug reports, and features requests.
 
-{% highlight ruby linenos %}
+{% highlight ruby %}
   def foo
     puts 'foo'
   end
 {% endhighlight %}
 
 Thanks!
-
-{% include disqus.html %}
