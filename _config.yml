@@ -8,7 +8,8 @@ permalink:        pretty
 # Setup
 title:            Mauricio Serna
 tagline:          'Autodidact, nerd'
-url:              http://hyde.getpoole.com
+description:      'Computer Science student passionate by web development. My strongest area of expertise is Ruby and Ruby on Rails. Learning Elixir 🚀'
+url:              http://mauricioserna.me
 baseurl:          /
 
 author:
@@ -21,4 +22,10 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/fmauricios/mauricio
+  repo:           https://github.com/fmauricios/
+
+linkedin:
+  url:            https://www.linkedin.com/in/mauricio-serna-fl%C3%B3rez-3a8516ab/
+
+cv:
+  url:            https://s3-us-west-2.amazonaws.com/mauricioserna/static/documents/cv.pdf
