@@ -59,7 +59,8 @@ def MiModulo do
 end
 ```
 
-### Funciones 
+### Funciones
+Las funciones son una relación entre unas entradas y sus salidas. En un capítulo posterior veremos que tipos de funciones existen.
 En **Elixir** toda función debe estar encerrada dentro de un módulo
 
 ```
