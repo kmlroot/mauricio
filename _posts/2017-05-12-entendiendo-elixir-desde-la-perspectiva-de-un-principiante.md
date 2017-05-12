@@ -9,7 +9,8 @@ Mis objetivos son:
 2. Tratar de que otras personas adquieran el conocimiento que yo estoy adquiriendo
 
 [Elixir](http://elixir-lang.org){:target="_blank"} es un lenguaje funcional, dinámico y compilado que nos brinda características tales como escalabilidad, capacidad de desarrollar aplicaciones mantenibles y distribuidas.
-El principal beneficio de este lenguaje es que está construido sobre la maquina virtual de [Erlang](http://www.erlang.org){:target="_blank"} sobre *Erlang* están basadas gran partes de las comunicaciones del mundo, plataformas como Whatsapp están contruidas sobre este lenguaje.
+El principal beneficio de este lenguaje es que está construido sobre la maquina virtual de [Erlang](http://www.erlang.org){:target="_blank"}.
+Sobre *Erlang* están basadas gran partes de las comunicaciones del mundo, plataformas como Whatsapp están contruidas sobre este lenguaje.
 
 [Elixir](http://elixir-lang.org){:target="_blank"} nos trae una gran cantidad de características (que muchos otros lenguajes también poseen) haciendo que la construcción de nuestros programas sea mucho más sencilla, algunas de estas características son:
 
