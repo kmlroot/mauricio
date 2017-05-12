@@ -36,7 +36,8 @@ IO.puts 100 |> Operaciones.sumar_uno
 
 ### Pattern Matching
 
-Cada una de las variables en el lado izquierdo tomará el valor de los elementos tipo [String](https://hexdocs.pm/elixir/String.html#content){:target="_blank"} en el lado derecho
+Cada una de las variables en el lado izquierdo tomará el valor de los elementos tipo [String](https://hexdocs.pm/elixir/String.html#content){:target="_blank"} en el lado derecho.
+Cabe aclarar que el pattern matching se puede aplicar en cosas mucho más complcidas, pero aquí solo veremos lo básico.
 
 ```
 # Capitales
