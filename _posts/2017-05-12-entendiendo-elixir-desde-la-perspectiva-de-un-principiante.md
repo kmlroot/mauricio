@@ -3,7 +3,8 @@ title: Entendiendo Elixir desde la perspectiva de un principiante
 layout: post
 ---
 
-> Con estos artículos pretendo escribir cosas que voy aprendiendo en el día a día con dos objetivos
+> Con estos artículos pretendo escribir algunas cosas que voy aprendiendo en el día a día. 
+Mis objetivos son:
 1. No olvidar lo aprendido
 2. Tratar de que otras personas adquieran el conocimiento que yo estoy adquiriendo
 
