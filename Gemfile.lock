@@ -3,7 +3,7 @@ GEM
   specs:
     addressable (2.5.1)
       public_suffix (~> 2.0, >= 2.0.2)
-    backports (3.7.0)
+    backports (3.8.0)
     colorator (1.1.0)
     ffi (1.9.18)
     forwardable-extended (2.6.0)
@@ -40,7 +40,7 @@ GEM
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     public_suffix (2.0.5)
-    rack (1.6.5)
+    rack (1.6.6)
     rack-protection (1.5.3)
       rack
     rack-test (0.6.3)
@@ -72,6 +72,7 @@ DEPENDENCIES
   jekyll-admin
   jekyll-feed (~> 0.6)
   jekyll-paginate
+  rouge
   tzinfo-data
 
 RUBY VERSION
