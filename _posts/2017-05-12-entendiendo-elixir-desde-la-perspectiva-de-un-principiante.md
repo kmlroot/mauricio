@@ -53,7 +53,7 @@ IO.puts belgica #=> Bruselas
 Tal como lo presenté en ejemplo del *Pipe Operator* un módulo encapsula una o más funciones
 
 {% highlight elixir %}
-def MiModulo do
+defmodule MiModulo do
 end
 {% endhighlight %}
 
