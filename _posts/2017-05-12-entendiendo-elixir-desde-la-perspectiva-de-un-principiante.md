@@ -69,7 +69,7 @@ defp mi_funcion_privada do
 end
 ```
 
-Otra característica bastante particular acerca de las funciones en **Elixir** son sus argumentos. En muchas ocaciones leyendo la documentación de Elixir y en la misma consola interactiva **(iex)** nos encontraremos que después de la función está el símbolo ```\``` seguido de algún número, este número quiere decir la cantidad de parámetros que recibe este método. Por ejemplo:
+Otra característica bastante particular acerca de las funciones en **Elixir** son sus argumentos. En muchas ocaciones leyendo la documentación de Elixir y en la misma consola interactiva **(iex)** nos encontraremos que después de la función está el símbolo ```/``` seguido de algún número, este número quiere decir la cantidad de parámetros que recibe este método. Por ejemplo:
 
 ```
 
