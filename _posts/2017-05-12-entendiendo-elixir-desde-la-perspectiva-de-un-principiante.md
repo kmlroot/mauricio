@@ -95,6 +95,6 @@ end
 Gracias por leerme, hasta pronto :)
 
 ### Referencias
-* [Sitio web lenguaje Elixir](http://elixir-lang.org/)
-* https://hexdocs.pm/elixir/Kernel.html
-* http://joaomdmoura.com/
+* [Sitio web lenguaje Elixir](http://elixir-lang.org/){:target="_blank"}
+* [HexDocs](https://hexdocs.pm/elixir/Kernel.html){:target="_blank"}
+* [JoaoMdMoura Blog](http://joaomdmoura.com/){:target="_blank"}
