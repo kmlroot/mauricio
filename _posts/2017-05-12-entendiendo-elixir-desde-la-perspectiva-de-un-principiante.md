@@ -8,14 +8,14 @@ Mis objetivos son:
 1. No olvidar lo aprendido
 2. Tratar de que otras personas adquieran el conocimiento que yo estoy adquiriendo
 
-[Elixir](http://elixir-lang.org) es un lenguaje funcional, dinámico y compilado que nos brinda características tales como escalabilidad, capacidad de desarrollar aplicaciones mantenibles y distribuidas.
-El principal beneficio de este lenguaje es que está construido sobre la maquina virtual de [Erlang](http://www.erlang.org) sobre *Erlang* están basadas gran partes de las comunicaciones del mundo, plataformas como Whatsapp están contruidas sobre este lenguaje.
+[Elixir](http://elixir-lang.org){:target="_blank"} es un lenguaje funcional, dinámico y compilado que nos brinda características tales como escalabilidad, capacidad de desarrollar aplicaciones mantenibles y distribuidas.
+El principal beneficio de este lenguaje es que está construido sobre la maquina virtual de [Erlang](http://www.erlang.org){:target="_blank"} sobre *Erlang* están basadas gran partes de las comunicaciones del mundo, plataformas como Whatsapp están contruidas sobre este lenguaje.
 
-[Elixir](http://elixir-lang.org) nos trae una gran cantidad de características (que muchos otros lenguajes también poseen) haciendo que la construcción de nuestros programas sea mucho más sencilla, algunas de estas características son:
+[Elixir](http://elixir-lang.org){:target="_blank"} nos trae una gran cantidad de características (que muchos otros lenguajes también poseen) haciendo que la construcción de nuestros programas sea mucho más sencilla, algunas de estas características son:
 
 ### Pipe operator
 
-Toma el valor pasado por parámetro en este caso **100** y realiza una [composición de funciones](https://es.wikipedia.org/wiki/Función_compuesta) para arrojarnos un valor final que en este casó será **500**
+Toma el valor pasado por parámetro en este caso **100** y realiza una [composición de funciones](https://es.wikipedia.org/wiki/Función_compuesta){:target="_blank"} para arrojarnos un valor final que en este casó será **500**
 
 ```elixir
 defmodule Operaciones do
@@ -35,7 +35,7 @@ IO.puts 100 |> Operaciones.sumar_uno
 
 ### Pattern Matching
 
-Cada una de las variables en el lado izquierdo tomará el valor de los elementos tipo [String](https://hexdocs.pm/elixir/String.html#content) en el lado derecho
+Cada una de las variables en el lado izquierdo tomará el valor de los elementos tipo [String](https://hexdocs.pm/elixir/String.html#content){:target="_blank"} en el lado derecho
 
 ```
 # Capitales
