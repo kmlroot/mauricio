@@ -31,6 +31,10 @@ Diseñar un sistema distribuido por medio de un mecanismo de razonamiento sobre 
 - Diseñar la arquitectura distribuida basada en microservicios que soporte el sistema de monitoreo propuesto.
 - Validar el sistema de monitoreo propuesto con base al criterio de un experto para la identificación de mejoras y trabajos futuros.
 
+Copyright © 2017 [Mauricio Serna Flórez](https://www.mauricioserna.me). Todos los derechos reservados.
+
+> [Propiedad intelectual](http://www.cide.edu.co/cidevirtual/file.php/1/Normatividad_Derechos_de_Autor.pdf)
+
 ## Referencias
 
 - [World Alzheimer Report 2015](http://www.worldalzreport2015.org/downloads/world-alzheimer-report-2015.pdf){:target="_blank"}
