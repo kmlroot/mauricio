@@ -16,5 +16,5 @@ Teniendo como pilar principal estas características de los sistemas distribuido
 
 ## Referencias
 
-- [Software Sensible al Contexto: definiciones y desarrollo de un estudio de caso en Google Glass](http://www.ort.edu.uy/fi/pdf/documento13fi.pdf)
-- [Aguilera, M. K., Merchant, A., Shah, M., Veitch, A., & Karamanolis, C. (2009). Sinfonia: A new paradigm for building scalable distributed systems. ACM Transactions on Computer Systems (TOCS), 27(3), 5.](https://www.researchgate.net/profile/Arif_Merchant/publication/220439346_Sinfonia_A_New_Paradigm_for_Building_Scalable_Distributed_Systems/links/02e7e526015f6eee41000000.pdf)
+- [Software Sensible al Contexto: definiciones y desarrollo de un estudio de caso en Google Glass](http://www.ort.edu.uy/fi/pdf/documento13fi.pdf){:target="_blank"}
+- [Aguilera, M. K., Merchant, A., Shah, M., Veitch, A., & Karamanolis, C. (2009). Sinfonia: A new paradigm for building scalable distributed systems. ACM Transactions on Computer Systems (TOCS), 27(3), 5.](https://www.researchgate.net/profile/Arif_Merchant/publication/220439346_Sinfonia_A_New_Paradigm_for_Building_Scalable_Distributed_Systems/links/02e7e526015f6eee41000000.pdf){:target="_blank"}
