@@ -29,3 +29,5 @@ linkedin:
 
 cv:
   url:            https://s3-us-west-2.amazonaws.com/mauricioserna/static/documents/cv.pdf
+
+excerpt_separator: "\n\n"
