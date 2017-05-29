@@ -2,7 +2,7 @@
 title: Sistema distribuido sensible al contexto para el monitoreo de pacientes con
   diagnóstico de Alzheimer - Parte 1
 layout: post
-published: true
+published: false
 ---
 
 ## Introducción
