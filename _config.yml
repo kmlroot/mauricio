@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Mauricio Serna
 tagline:          'Autodidact, nerd'
 description:      'Blockchain | Nodejs | Elixir 🚀'
-url:              http://mauricioserna.me
+url:              http://fmauricios.github.io/mauricio
 baseurl:          /
 
 author:
@@ -31,3 +31,7 @@ cv:
   url:            https://s3-us-west-2.amazonaws.com/mauricioserna/static/documents/cv.pdf
 
 excerpt_separator: "\n\n"
+
+sass:
+  sass_dir:          _scss
+  style:            :compressed
