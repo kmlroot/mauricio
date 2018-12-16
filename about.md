@@ -4,7 +4,7 @@ title: About
 ---
 
 <p align="center">
-  <img src="https://s3-us-west-2.amazonaws.com/mauricioserna/perfil.jpg" height="250" />
+  <img src="https://s3-us-west-2.amazonaws.com/mauricioserna/perfil.jpeg" height="250" />
 </p>
 
 <p class="message">
