@@ -4,11 +4,11 @@ title: About
 ---
 
 <p align="center">
-  <img src="https://s3-us-west-2.amazonaws.com/mauricioserna/static/perfil.jpg" height="250" />
+  <img src="https://s3-us-west-2.amazonaws.com/mauricioserna/perfil.jpg" height="250" />
 </p>
 
 <p class="message">
-  My name is Mauricio. I´m a Computer Science student from Medellin, Colombia, currently working on building a solid skill set as a web developer. My strongest area of expertise is Ruby and Ruby on Rails, however, I am proficient in JavaScript, Node.js, SQL and Realtime databases, HTML, CSS, advanced math, Linux, git among others.
+  My name is Mauricio. I'm a Software Engineer from Medellin, Colombia, currently working at Bancolombia's Blockchain Team. My strongest area of expertise is Nodejs, however, I am proficient in Ruby and Ruby on Rails, DevOps, Elixir, APIs, Software Architecture, Linux, git among others.
 </p>
 
 Thanks for reading!
