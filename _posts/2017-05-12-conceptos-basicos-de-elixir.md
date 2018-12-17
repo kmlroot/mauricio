@@ -1,5 +1,5 @@
 ---
-title: Entendiendo Elixir desde la perspectiva de un principiante
+title: Conceptos básicos de Elixir
 layout: post
 ---
 
