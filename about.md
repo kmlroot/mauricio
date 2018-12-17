@@ -12,3 +12,5 @@ title: About
 </p>
 
 Thanks for reading!
+
+<a href="/"> ← See articles list </a>
