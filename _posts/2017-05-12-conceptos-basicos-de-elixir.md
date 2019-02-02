@@ -1,5 +1,5 @@
 ---
-title: Conceptos básicos de Elixir
+title: Conceptos básicos de Elixir 🇪🇸
 layout: post
 ---
 
